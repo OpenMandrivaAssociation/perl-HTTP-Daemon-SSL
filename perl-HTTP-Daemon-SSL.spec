@@ -18,7 +18,6 @@ BuildRequires:	perl-devel
 BuildRequires:	perl-IO-Socket-SSL
 BuildRequires:	perl-libwww-perl
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 HTTP::Daemon::SSL is a descendant of HTTP::Daemon that uses SSL
