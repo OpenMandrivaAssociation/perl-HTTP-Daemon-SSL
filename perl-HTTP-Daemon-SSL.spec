@@ -1,6 +1,6 @@
 %define module	HTTP-Daemon-SSL
 %define version		1.04
-%define release		%mkrel 1
+%define release		%mkrel 3
 
 Name:		perl-%{module}
 Version:	%{version}
