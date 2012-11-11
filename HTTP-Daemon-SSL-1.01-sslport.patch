@@ -1,0 +1,10 @@
+--- HTTP-Daemon-SSL-1.01/t/ssl_settings.req.orig	2005-07-14 23:05:54.000000000 +0200
++++ HTTP-Daemon-SSL-1.01/t/ssl_settings.req	2005-07-14 23:05:56.000000000 +0200
+@@ -1,4 +1,4 @@
+ #Change the following to a port and address that you can create a listening socket on:
+-$SSL_SERVER_PORT = 2000;
++$SSL_SERVER_PORT = 29917;
+ $SSL_SERVER_ADDR = '127.0.0.1';
+-'True Value';
+\ No newline at end of file
++'True Value';
