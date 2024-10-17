@@ -8,7 +8,7 @@ Release:	4
 Summary:	A simple http server class with SSL support
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Text/%{upstream_name}-%{upstream_version}.tar.gz
 # default port could be in use by the sieve daemon (2000), so
 # let's change it to something hopefully free so that make test
